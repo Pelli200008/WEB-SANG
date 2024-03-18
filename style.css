@@ -1,0 +1,82 @@
+*{
+    background-color:#c62828;
+    font-family:initial;
+}
+#titol_principal{
+    font-family:fantasy ;
+    background-color: #e57373;
+    border-radius: 32px;
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 2px 2px gray;
+}
+#links{
+    background-color: #ff8a80;
+    border-radius: 10px;
+    height: 40px;
+    width: 880px;
+}
+#btn_inici{
+    position: absolute;
+    top: 110px;
+    left: 20px;
+    background-color:yellow;
+    border-radius: 32px;
+    font-size: 25px;
+}
+#btn_inici:active{
+    background-color:darkgoldenrod;
+    box-shadow: 2px 2px black;
+    color: whitesmoke;
+}
+#btn_requisits{
+    position: absolute;
+    top: 110px;
+    left: 250px;
+    background-color:yellow;
+    border-radius: 32px;
+    font-size: 25px;
+}
+#btn_requisits:active{
+    background-color:darkgoldenrod;
+    box-shadow: 2px 2px black;
+    color: whitesmoke;
+}
+#btn_queesfaamblasang{
+    position: absolute;
+    top: 110px;
+    left: 600px;
+    background-color:yellow;
+    border-radius: 32px;
+    font-size: 25px;
+}
+#btn_queesfaamblasang:active{
+    background-color:darkgoldenrod;
+    box-shadow: 2px 2px black;
+    color: whitesmoke;
+}
+#img_BossaDeSang{
+    width: 250px;
+    position: absolute;
+    top: 200px;
+    right: 150px ;
+}
+#img_Punxada{
+    width: 500px;
+    position: absolute;
+    top: 210px;
+    left: 150px ;
+}
+#img_Logo{
+    width: 250px;
+    position: absolute;
+    top: 210px;
+    right: 500px ;
+}
+#Realització{
+    top: 700px;
+    position: absolute;
+}
+#sang{
+    font-size: x-large;
+}
